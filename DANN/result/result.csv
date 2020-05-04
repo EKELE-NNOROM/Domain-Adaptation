@@ -1,0 +1,204 @@
+Epoch: [0/100], classify_loss: 0.6335, domain_loss_s: 0.7048, domain_loss_t: 0.6928, domain_loss: 1.3977,total_loss: 1.3324
+Epoch: [0/100], classify_loss: 0.6335, domain_loss_s: 0.7048, domain_loss_t: 0.6928, domain_loss: 1.3977,total_loss: 1.3324
+Epoch: [0/100], classify_loss: 0.6335, domain_loss_s: 0.7048, domain_loss_t: 0.6928, domain_loss: 1.3977,total_loss: 1.3324
+Source accuracy: 93.9200, target accuracy: 33.2963
+Epoch: [0/100], classify_loss: 0.6335, domain_loss_s: 0.7048, domain_loss_t: 0.6928, domain_loss: 1.3977,total_loss: 1.3324
+Source accuracy: 93.9200, target accuracy: 33.2963
+Epoch: [1/100], classify_loss: 0.3167, domain_loss_s: 0.6975, domain_loss_t: 0.6930, domain_loss: 1.3905,total_loss: 1.0120
+Source accuracy: 96.1300, target accuracy: 37.5069
+Epoch: [2/100], classify_loss: 0.2428, domain_loss_s: 0.6949, domain_loss_t: 0.6934, domain_loss: 1.3883,total_loss: 0.9369
+Source accuracy: 97.0500, target accuracy: 41.5176
+Epoch: [3/100], classify_loss: 0.1618, domain_loss_s: 0.6942, domain_loss_t: 0.6934, domain_loss: 1.3876,total_loss: 0.8556
+Source accuracy: 97.4800, target accuracy: 43.5396
+Epoch: [4/100], classify_loss: 0.1762, domain_loss_s: 0.6940, domain_loss_t: 0.6933, domain_loss: 1.3873,total_loss: 0.8698
+Source accuracy: 97.9200, target accuracy: 42.9175
+Epoch: [5/100], classify_loss: 0.1094, domain_loss_s: 0.6936, domain_loss_t: 0.6933, domain_loss: 1.3869,total_loss: 0.8028
+Source accuracy: 98.1500, target accuracy: 43.6729
+Epoch: [6/100], classify_loss: 0.0888, domain_loss_s: 0.6935, domain_loss_t: 0.6932, domain_loss: 1.3867,total_loss: 0.7821
+Source accuracy: 98.2500, target accuracy: 44.5395
+Epoch: [7/100], classify_loss: 0.1638, domain_loss_s: 0.6934, domain_loss_t: 0.6932, domain_loss: 1.3866,total_loss: 0.8571
+Source accuracy: 98.3600, target accuracy: 46.8615
+Epoch: [8/100], classify_loss: 0.1067, domain_loss_s: 0.6933, domain_loss_t: 0.6931, domain_loss: 1.3865,total_loss: 0.7999
+Source accuracy: 98.5000, target accuracy: 47.3725
+Epoch: [9/100], classify_loss: 0.0982, domain_loss_s: 0.6933, domain_loss_t: 0.6931, domain_loss: 1.3864,total_loss: 0.7914
+Source accuracy: 98.4600, target accuracy: 47.7391
+Epoch: [10/100], classify_loss: 0.1747, domain_loss_s: 0.6933, domain_loss_t: 0.6931, domain_loss: 1.3864,total_loss: 0.8679
+Source accuracy: 98.6200, target accuracy: 49.2945
+Epoch: [11/100], classify_loss: 0.0427, domain_loss_s: 0.6932, domain_loss_t: 0.6931, domain_loss: 1.3864,total_loss: 0.7359
+Source accuracy: 98.5500, target accuracy: 49.3612
+Epoch: [12/100], classify_loss: 0.0484, domain_loss_s: 0.6932, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7416
+Source accuracy: 98.5300, target accuracy: 49.5945
+Epoch: [13/100], classify_loss: 0.0713, domain_loss_s: 0.6932, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7644
+Source accuracy: 98.5600, target accuracy: 48.9946
+Epoch: [14/100], classify_loss: 0.1004, domain_loss_s: 0.6932, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7936
+Source accuracy: 98.6800, target accuracy: 49.6834
+Epoch: [15/100], classify_loss: 0.0597, domain_loss_s: 0.6932, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7529
+Source accuracy: 98.7200, target accuracy: 50.1833
+Epoch: [16/100], classify_loss: 0.0383, domain_loss_s: 0.6932, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7315
+Source accuracy: 98.6800, target accuracy: 50.9832
+Epoch: [17/100], classify_loss: 0.1986, domain_loss_s: 0.6932, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8918
+Source accuracy: 98.7800, target accuracy: 51.5609
+Epoch: [18/100], classify_loss: 0.0946, domain_loss_s: 0.6932, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7877
+Source accuracy: 98.7000, target accuracy: 52.4719
+Epoch: [19/100], classify_loss: 0.0823, domain_loss_s: 0.6932, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7754
+Source accuracy: 98.7600, target accuracy: 51.5276
+Epoch: [20/100], classify_loss: 0.1483, domain_loss_s: 0.6932, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8415
+Source accuracy: 98.7800, target accuracy: 51.9831
+Epoch: [21/100], classify_loss: 0.1551, domain_loss_s: 0.6932, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8483
+Source accuracy: 98.8100, target accuracy: 50.0944
+Epoch: [22/100], classify_loss: 0.1128, domain_loss_s: 0.6932, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8060
+Source accuracy: 98.8700, target accuracy: 51.8165
+Epoch: [23/100], classify_loss: 0.0559, domain_loss_s: 0.6932, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7491
+Source accuracy: 98.8400, target accuracy: 51.9498
+Epoch: [24/100], classify_loss: 0.0631, domain_loss_s: 0.6932, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7562
+Source accuracy: 98.8700, target accuracy: 51.7387
+Epoch: [25/100], classify_loss: 0.0571, domain_loss_s: 0.6932, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7503
+Source accuracy: 98.8400, target accuracy: 51.4943
+Epoch: [26/100], classify_loss: 0.0313, domain_loss_s: 0.6932, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7244
+Source accuracy: 98.7900, target accuracy: 52.8719
+Epoch: [27/100], classify_loss: 0.0404, domain_loss_s: 0.6932, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7335
+Source accuracy: 98.9600, target accuracy: 51.8942
+Epoch: [28/100], classify_loss: 0.0228, domain_loss_s: 0.6932, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7160
+Source accuracy: 98.8600, target accuracy: 52.3942
+Epoch: [29/100], classify_loss: 0.0470, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7401
+Source accuracy: 98.9600, target accuracy: 52.9052
+Epoch: [30/100], classify_loss: 0.0265, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7196
+Source accuracy: 98.8400, target accuracy: 51.8942
+Epoch: [31/100], classify_loss: 0.1133, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8064
+Source accuracy: 98.9300, target accuracy: 52.4608
+Epoch: [32/100], classify_loss: 0.0639, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7571
+Source accuracy: 98.9100, target accuracy: 52.4942
+Epoch: [33/100], classify_loss: 0.0908, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7840
+Source accuracy: 98.9200, target accuracy: 53.4718
+Epoch: [34/100], classify_loss: 0.0567, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7498
+Source accuracy: 99.0000, target accuracy: 52.8052
+Epoch: [35/100], classify_loss: 0.0568, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7500
+Source accuracy: 98.9300, target accuracy: 53.6163
+Epoch: [36/100], classify_loss: 0.0738, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7670
+Source accuracy: 98.9400, target accuracy: 52.9052
+Epoch: [37/100], classify_loss: 0.0703, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7635
+Source accuracy: 98.9400, target accuracy: 52.9052
+Epoch: [38/100], classify_loss: 0.0957, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7889
+Source accuracy: 99.0200, target accuracy: 53.3385
+Epoch: [39/100], classify_loss: 0.0365, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7297
+Source accuracy: 98.9700, target accuracy: 53.8162
+Epoch: [40/100], classify_loss: 0.0397, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7329
+Source accuracy: 98.9600, target accuracy: 54.7161
+Epoch: [41/100], classify_loss: 0.1200, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8132
+Source accuracy: 99.0100, target accuracy: 54.3273
+Epoch: [42/100], classify_loss: 0.0637, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7568
+Source accuracy: 99.0400, target accuracy: 53.0052
+Epoch: [43/100], classify_loss: 0.0212, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7143
+Source accuracy: 98.9100, target accuracy: 52.9941
+Epoch: [44/100], classify_loss: 0.0198, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7129
+Source accuracy: 98.9300, target accuracy: 52.4831
+Epoch: [45/100], classify_loss: 0.0534, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7466
+Source accuracy: 99.0300, target accuracy: 51.5943
+Epoch: [46/100], classify_loss: 0.0516, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7448
+Source accuracy: 98.9000, target accuracy: 53.3274
+Epoch: [47/100], classify_loss: 0.0525, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7456
+Source accuracy: 98.9900, target accuracy: 54.0829
+Epoch: [48/100], classify_loss: 0.0765, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7697
+Source accuracy: 99.0300, target accuracy: 53.0719
+Epoch: [49/100], classify_loss: 0.0804, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7735
+Source accuracy: 98.9300, target accuracy: 53.9940
+Epoch: [50/100], classify_loss: 0.0357, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7288
+Source accuracy: 98.9600, target accuracy: 53.7829
+Epoch: [51/100], classify_loss: 0.0411, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7343
+Source accuracy: 99.0100, target accuracy: 53.7829
+Epoch: [52/100], classify_loss: 0.0562, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7494
+Source accuracy: 99.0100, target accuracy: 54.6384
+Epoch: [53/100], classify_loss: 0.0534, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7465
+Source accuracy: 98.8500, target accuracy: 54.4273
+Epoch: [54/100], classify_loss: 0.0274, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7206
+Source accuracy: 98.9500, target accuracy: 54.0940
+Epoch: [55/100], classify_loss: 0.0371, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7303
+Source accuracy: 98.8500, target accuracy: 53.0163
+Epoch: [56/100], classify_loss: 0.0731, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7662
+Source accuracy: 98.9500, target accuracy: 53.5163
+Epoch: [57/100], classify_loss: 0.0211, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7143
+Source accuracy: 99.0600, target accuracy: 54.1273
+Epoch: [58/100], classify_loss: 0.0336, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7268
+Source accuracy: 99.1000, target accuracy: 54.7161
+Epoch: [59/100], classify_loss: 0.0105, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7037
+Source accuracy: 98.9900, target accuracy: 54.4606
+Epoch: [60/100], classify_loss: 0.0284, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7216
+Source accuracy: 99.1400, target accuracy: 53.5274
+Epoch: [61/100], classify_loss: 0.0253, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7184
+Source accuracy: 98.9500, target accuracy: 54.8606
+Epoch: [62/100], classify_loss: 0.0146, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7077
+Source accuracy: 99.0600, target accuracy: 54.0496
+Epoch: [63/100], classify_loss: 0.0084, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7015
+Source accuracy: 99.0200, target accuracy: 54.5717
+Epoch: [64/100], classify_loss: 0.0157, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7088
+Source accuracy: 99.1100, target accuracy: 54.6273
+Epoch: [65/100], classify_loss: 0.0168, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7099
+Source accuracy: 99.1100, target accuracy: 54.6384
+Epoch: [66/100], classify_loss: 0.0191, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7122
+Source accuracy: 99.0600, target accuracy: 54.6717
+Epoch: [67/100], classify_loss: 0.0415, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7346
+Source accuracy: 99.1000, target accuracy: 55.0161
+Epoch: [68/100], classify_loss: 0.0150, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7081
+Source accuracy: 98.9800, target accuracy: 55.1494
+Epoch: [69/100], classify_loss: 0.0429, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7361
+Source accuracy: 99.0400, target accuracy: 53.6607
+Epoch: [70/100], classify_loss: 0.0135, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7067
+Source accuracy: 99.0200, target accuracy: 54.1162
+Epoch: [71/100], classify_loss: 0.0374, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7305
+Source accuracy: 98.9200, target accuracy: 53.9273
+Epoch: [72/100], classify_loss: 0.0328, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7260
+Source accuracy: 98.9600, target accuracy: 54.9828
+Epoch: [73/100], classify_loss: 0.0286, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7217
+Source accuracy: 98.9700, target accuracy: 54.4495
+Epoch: [74/100], classify_loss: 0.0139, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7070
+Source accuracy: 98.9000, target accuracy: 53.6274
+Epoch: [75/100], classify_loss: 0.0075, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7006
+Source accuracy: 99.0500, target accuracy: 51.7276
+Epoch: [76/100], classify_loss: 0.0375, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7306
+Source accuracy: 98.9900, target accuracy: 53.2274
+Epoch: [77/100], classify_loss: 0.0113, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7045
+Source accuracy: 98.9500, target accuracy: 53.8496
+Epoch: [78/100], classify_loss: 0.0523, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7454
+Source accuracy: 98.9500, target accuracy: 54.1384
+Epoch: [79/100], classify_loss: 0.0464, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7395
+Source accuracy: 98.9700, target accuracy: 52.5053
+Epoch: [80/100], classify_loss: 0.0233, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7165
+Source accuracy: 98.9600, target accuracy: 54.2273
+Epoch: [81/100], classify_loss: 0.0438, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7370
+Source accuracy: 99.0000, target accuracy: 53.6940
+Epoch: [82/100], classify_loss: 0.0237, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7169
+Source accuracy: 99.0200, target accuracy: 53.6163
+Epoch: [83/100], classify_loss: 0.0099, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7031
+Source accuracy: 99.0000, target accuracy: 53.3607
+Epoch: [84/100], classify_loss: 0.0357, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7289
+Source accuracy: 99.0500, target accuracy: 53.3385
+Epoch: [85/100], classify_loss: 0.0075, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7007
+Source accuracy: 98.9700, target accuracy: 53.6496
+Epoch: [86/100], classify_loss: 0.0201, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7132
+Source accuracy: 99.0600, target accuracy: 54.8272
+Epoch: [87/100], classify_loss: 0.0113, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7045
+Source accuracy: 98.9300, target accuracy: 54.1829
+Epoch: [88/100], classify_loss: 0.0202, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7134
+Source accuracy: 98.9700, target accuracy: 54.6606
+Epoch: [89/100], classify_loss: 0.0201, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7132
+Source accuracy: 99.0100, target accuracy: 54.4606
+Epoch: [90/100], classify_loss: 0.0244, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7176
+Source accuracy: 98.9300, target accuracy: 54.0829
+Epoch: [91/100], classify_loss: 0.0279, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7210
+Source accuracy: 98.9700, target accuracy: 53.1385
+Epoch: [92/100], classify_loss: 0.0853, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7785
+Source accuracy: 99.0400, target accuracy: 53.2941
+Epoch: [93/100], classify_loss: 0.0063, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.6995
+Source accuracy: 99.0100, target accuracy: 54.0718
+Epoch: [94/100], classify_loss: 0.0209, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7140
+Source accuracy: 99.0000, target accuracy: 54.4162
+Epoch: [95/100], classify_loss: 0.0108, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7039
+Source accuracy: 99.0100, target accuracy: 54.4162
+Epoch: [96/100], classify_loss: 0.0252, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7183
+Source accuracy: 98.9400, target accuracy: 53.3496
+Epoch: [97/100], classify_loss: 0.0126, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7057
+Source accuracy: 98.9900, target accuracy: 54.0162
+Epoch: [98/100], classify_loss: 0.0181, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7113
+Source accuracy: 98.9800, target accuracy: 54.2495
+Epoch: [99/100], classify_loss: 0.0744, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7676
+Source accuracy: 99.0000, target accuracy: 55.0717
